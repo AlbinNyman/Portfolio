@@ -1,4 +1,4 @@
-# PortfolioWebsite
+# Portfolio
 
 [Website](https://albinnyman.github.io/Portfolio/)
 
